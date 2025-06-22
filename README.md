@@ -40,7 +40,7 @@ Se exploraron variables clave usando gráficos de barras por categoría:
 - **Cargos mensuales (`Charges.Monthly`)**: Más altos entre quienes evaden.
 - **Antigüedad (`tenure`)**: Los clientes con mayor permanencia tienden a quedarse.
 
-✅ Conclusión
+## ✅ Conclusión
 El análisis revela que los clientes con contratos a corto plazo, sin servicios adicionales de soporte o seguridad, y con cargos mensuales elevados presentan una mayor probabilidad de abandonar el servicio. Estos hallazgos permiten enfocar políticas de retención más efectivas y priorizar futuras estrategias basadas en datos. Además, el proceso de limpieza y transformación de datos deja preparado el conjunto para una posterior modelización predictiva del churn.
 
 
